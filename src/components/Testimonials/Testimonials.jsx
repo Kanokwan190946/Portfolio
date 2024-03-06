@@ -1,6 +1,11 @@
 import React from "react";
 import styles from "./Testimonials.module.css";
 
+const user ={
+  img7:'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.akerufeed.com%2Ftrend-life%2F30-boyfriend-picture-ideas&psig=AOvVaw3gDWHupQsky2T2028M3Jhf&ust=1709829579375000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCICUrdiJ4IQDFQAAAAAdAAAAABCeAQ',
+  img8:'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ladyissue.com%2F218973%2F&psig=AOvVaw14g4xVrS03yXM7ZcDDBesq&ust=1709829796916000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDJh8CK4IQDFQAAAAAdAAAAABAE',
+  img9:'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ladyissue.com%2F218973%2F&psig=AOvVaw14g4xVrS03yXM7ZcDDBesq&ust=1709829796916000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDJh8CK4IQDFQAAAAAdAAAAABAI',
+}
 function Testimonials() {
   return (
     <div className={styles.testi_con}>
@@ -11,7 +16,7 @@ function Testimonials() {
           Good at work and organized.
           </p>
           <img
-            src="src/components/Testimonials/1-52.jpg"
+            src="src/components/Testimonials/2-55.jpg"
             alt=""
           />
           <h4>Trin</h4>
@@ -33,7 +38,7 @@ function Testimonials() {
           Helpful and careful, not deviating from appointments.
           </p>
           <img
-            src="src/components/Testimonials/ai_ailynn_20211001_134915_0.jpg"
+            src="src/components/Testimonials/2-16-5.jpg"
             alt=""
           />
           <h4>Apple</h4>
