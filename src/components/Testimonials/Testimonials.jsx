@@ -16,7 +16,7 @@ function Testimonials() {
           Good at work and organized.
           </p>
           <img
-            src="src/components/Testimonials/2-55.jpg"
+            src={user.img7}
             alt=""
           />
           <h4>Trin</h4>
@@ -27,7 +27,7 @@ function Testimonials() {
           Focused, determined, good-hearted and friendly.
           </p>
           <img
-            src="src/components/Testimonials/2-23-2.jpg"
+            src={user.img8}
             alt=""
           />
           <h4>King</h4>
@@ -38,7 +38,7 @@ function Testimonials() {
           Helpful and careful, not deviating from appointments.
           </p>
           <img
-            src="src/components/Testimonials/2-16-5.jpg"
+            src={user.img9}
             alt=""
           />
           <h4>Apple</h4>
